@@ -1,0 +1,2 @@
+# registry.plugin.languagemanager
+TBD
