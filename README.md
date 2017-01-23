@@ -1,6 +1,7 @@
 # Phaser Locale Plugin
 By Joel Dies
 
+A simple tool to help manage various Locale data.
 
 **This is not 100% documented but is on its way to being 100% documented.**
 
