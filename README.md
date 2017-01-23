@@ -22,19 +22,19 @@ Required Modules:
 <script src="/path/to/plugin/lodash.min.js"></script>
 
 <script src="/path/to/plugin/phreaknation.utilities.min.js"></script>
-<script src="/path/to/plugin/phreaknation.manager.registry.min.js"></script>
+<script src="/path/to/plugin/phreaknation.manager.locale.min.js"></script>
 ```
 
 In your create of your phaser project.
 
 ```
-game.plugins.add(PhreakNation.Plugins.RegistryManager);
+game.plugins.add(PhreakNation.Plugins.LocaleManager);
 ```
 
 
 #### Example:
 ```
-var registry;
+var localeman;
 (function() {
   'use strict';
 
