@@ -1,0 +1,81 @@
+{
+    "locales": {
+        "en-us": {
+            "bind": "en"
+        },
+        "en": {
+            "en": "English",
+            "de": "Englisch",
+            "sp": "Inglés",
+            "jp": "英語",
+            "ru": "английский",
+            "zh": "英语"
+        },
+        "de": {
+            "en": "German",
+            "de": "Deutsche",
+            "sp": "Alemán",
+            "jp": "ドイツ人",
+            "ru": "Немецкий",
+            "zh": "德语"
+        },
+        "sp": {
+            "en": "Spanish",
+            "de": "Spanisch",
+            "sp": "Español",
+            "jp": "スペイン語",
+            "ru": "испанский",
+            "zh": "西班牙语"
+        },
+        "jp": {
+            "en": "Japanese",
+            "de": "Japanisch",
+            "sp": "Japonés",
+            "jp": "日本語",
+            "ru": "Японский",
+            "zh": "日本"
+        },
+        "ru": {
+            "en": "Russian",
+            "de": "Russisch",
+            "sp": "Ruso",
+            "jp": "ロシア",
+            "ru": "русский",
+            "zh": "俄语"
+        },
+        "zh": {
+            "en": "Chinese",
+            "de": "Chinesisch",
+            "sp": "Chino",
+            "jp": "中国語",
+            "ru": "Китайский",
+            "zh": "中文"
+        }
+    },
+    "dictionary": {
+        "word_value": {
+            "en": "value",
+            "de": "wert",
+            "sp": "valor",
+            "jp": "価値",
+            "ru": "стоимость",
+            "zh": "值"
+        },
+        "word_phaser": {
+            "en": "Phaser",
+            "de": "Phaser",
+            "sp": "Phaser",
+            "jp": "フェイザー",
+            "ru": "фазовращатель",
+            "zh": "相移"
+        },
+        "du_hast": {
+            "en": "You asked me and I did not say anything",
+            "de": "Du hast mich gefragt und ich hab nichts gesagt",
+            "sp": "Usted me preguntó y yo no ha dicho nada",
+            "jp": "あなたは私に尋ねた、私は何も言いませんでした",
+            "ru": "Вы спросили меня, и я ничего не сказал",
+            "zh": "你问我，我什么也没说"
+        }
+    }
+}
